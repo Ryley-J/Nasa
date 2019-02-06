@@ -1,0 +1,53 @@
+
+*{
+    height:auto;
+}
+.nasa{
+    width:20%; 
+}
+
+.title {
+    text-align: Center;
+    width: 100%;
+}
+.page2-content{
+    font-size: 20px;
+    padding-top: 13px;
+    padding-left: 45px;
+    
+}
+
+.page-content{
+    padding-top: 30px;
+    font-size: 30px;
+    text-align: center;
+}
+
+.image{
+    width:100%;
+    padding-top: 20px;
+}
+
+.desc{
+    font-size: 20px;
+    text-align: center;
+}
+
+.toolbar-inner{
+    font-size: 18px;
+}
+
+.text{
+    font-size: 20px;
+    color:black;
+    text-align: center;
+}
+.image2{
+    padding-top:10px;
+}
+.titlepage2{
+    font-size: 30px;
+    text-align: center;
+    padding-top: 10px;
+}
+
